@@ -33,9 +33,6 @@ $                  = Dollar sign metacharacter anchor.
 - [OR Operator](#or-operator)
 - [Character Classes](#character-classes)
 - [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
 
